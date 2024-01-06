@@ -1,5 +1,5 @@
 <div id=header align=center>
-  <img src="helloWorldFixed2.gif" width="200px"/>
+  <img src="helloWorldFixed2.gif" width="300px"/>
 </div>
 
 <div id=badges align=center>
@@ -19,5 +19,11 @@
 
 
 <div align=center>
-  <img src="https://giphy.com/stickers/hackinthewoods-code-coding-dev-PgLLtnqHts1woXeKpy" width="100px"/>
+  <img src="codeWorld2.gif" width="300px"/>
 </div>
+
+---
+
+### :man_technologist: About me :
+I am a brazillian Computer Science student looking for an opportunity to develop my professional skills and portfolio :computer:
+- :
