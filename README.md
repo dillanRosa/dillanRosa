@@ -13,8 +13,11 @@
 </div>
 
 <h2 align=center>
-  Oh, hi there!
+  Oh, hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
 
+<div align=center>
+  <img src="https://giphy.com/stickers/hackinthewoods-code-coding-dev-PgLLtnqHts1woXeKpy" width="100px"/>
+</div>
